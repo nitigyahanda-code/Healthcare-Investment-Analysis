@@ -54,7 +54,7 @@ healthcare-forecasting-ireland/
 
 | Source | Data Provided | Format |
 |---|---|---|
-| [Central Statistics Office (CSO)](https://www.cso.ie/en/index.html) | Population, age, gender, disposable income | XLSX |
+| [Central Statistics Office (CSO)](https://www.cso.ie/en/databases/) | Population, age, gender, disposable income | XLSX |
 | [Health Service Executive (HSE)](https://hseresearch.ie/data-sources/) | Hospital workforce (WTE) | PDF (per hospital) |
 | [National Treatment Purchase Fund (NTPF)](https://www.ntpf.ie/waiting-list-data/open-data/) | Outpatient wait counts | XLSX |
 
