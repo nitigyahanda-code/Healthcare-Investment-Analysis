@@ -6,8 +6,6 @@
 
 ## 👤 My Contributions
 
-This was a group project (3 members). My specific contributions:
-
 - ✅ End-to-end **HSE employment data cleaning** — PDF extraction, hierarchy restructuring in R
 - ✅ **Correlation analysis** — county-level data aggregation, matrix generation, visualisation
 - ✅ All **time series forecasting** — EDA, model selection, ETS/SARIMA/Prophet implementation, cross-validation, final forecast generation
