@@ -54,9 +54,9 @@ healthcare-forecasting-ireland/
 
 | Source | Data Provided | Format |
 |---|---|---|
-| [Central Statistics Office (CSO)]([https://www.cso.ie](https://www.cso.ie/en/index.html)) | Population, age, gender, disposable income | XLSX |
-| [Health Service Executive (HSE)]([https://www.hse.ie](https://hseresearch.ie/data-sources/)) | Hospital workforce (WTE) | PDF (per hospital) |
-| [National Treatment Purchase Fund (NTPF)]([https://www.ntpf.ie](https://www.ntpf.ie/waiting-list-data/open-data/)) | Outpatient wait counts | XLSX |
+| [Central Statistics Office (CSO)](https://www.cso.ie/en/index.html) | Population, age, gender, disposable income | XLSX |
+| [Health Service Executive (HSE)](https://hseresearch.ie/data-sources/) | Hospital workforce (WTE) | PDF (per hospital) |
+| [National Treatment Purchase Fund (NTPF)](https://www.ntpf.ie/waiting-list-data/open-data/) | Outpatient wait counts | XLSX |
 
 **Data period:** January 2014 – April 2023 (111 monthly observations for forecasting)
 
@@ -193,6 +193,3 @@ The forecast shows a **continuing decrease through late 2023**, followed by an *
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 **R packages used:** `forecast`, `prophet`, `ggplot2`, `dplyr`, `tseries`, `corrplot`
-
-
-
