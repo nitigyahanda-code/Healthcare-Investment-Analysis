@@ -64,7 +64,7 @@ healthcare-forecasting-ireland/
 
 ## 🔧 Data Cleaning
 
-### HSE Employment Dataset (My contribution)
+### HSE Employment Dataset
 The HSE workforce data presented a significant structural challenge: each hospital's data was in a **separate PDF file**, with job descriptions, post levels, and departments all combined in a single column using a three-level hierarchy (L0 → Specialty, L1 → Post, L2 → Department).
 
 **Cleaning pipeline:**
